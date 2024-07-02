@@ -67,11 +67,13 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I'm a skilled software developer with experience in TypeScript and JavaScript, specializing 
+                  in frameworks like React, Node.js, and Three.js. 
+                I also have extensive experience converting Figma designs to WordPress/Elementor/Bootstrap, 
+                  as well as PSD/XD designs to WordPress/Bootstrap. My skills include SEO, WordPress/WooCommerce, Shopify, Bootstrap, HTML5, CSS3, website speed optimization, and PHP/MySQL.
+                I'm a fast learner and enjoy working closely with clients to create efficient, scalable, and user-friendly solutions that address real-world problems.
+
+                Let's work together to bring your ideas to life!,`
     },
     experience: {
       p: "What I have done so far",
