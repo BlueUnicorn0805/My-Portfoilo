@@ -75,7 +75,7 @@ export const config: TConfig = {
                   optimization, and PHP/MySQL.
                 I'm a fast learner and enjoy working closely with clients to create efficient, scalable, and user-friendly solutions that address real-world problems.
 
-                Let's work together to bring your ideas to life!,`
+                Let's work together to bring your ideas to life!`
     },
     experience: {
       p: "What I have done so far",
