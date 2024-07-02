@@ -185,15 +185,7 @@ const testimonials: TTestimonial[] = [
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Akira proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://randomuser.me/api/portraits/women/3.jpg",
   },
   {
     testimonial:
@@ -201,7 +193,7 @@ const testimonials: TTestimonial[] = [
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: "https://randomuser.me/api/portraits/men/9.jpg",
   },
   {
     testimonial:
@@ -209,7 +201,7 @@ const testimonials: TTestimonial[] = [
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: "https://randomuser.me/api/portraits/women/8.jpg",
   },
 ];
 
@@ -233,7 +225,7 @@ const projects: TProject[] = [
       },
     ],
     image: carrent,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/BlueUnicorn0805/Goodcar-Rent",
   },
   {
     name: "Job IT",
